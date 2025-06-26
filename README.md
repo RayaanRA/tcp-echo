@@ -1,2 +1,2 @@
 # tcp-echo
-A simple TCP echo server and client
+A simple TCP echo server and client.
